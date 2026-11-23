@@ -1,6 +1,6 @@
 ---
 name: init-stack
-description: Úsala al empezar un proyecto nuevo con esta plantilla, o cuando el usuario quiera definir o cambiar el stack (lenguajes, frameworks, base de datos, herramientas de pruebas). Rellena docs/stack, los comandos de AGENTS.md, scripts/check.sh e init.sh.
+description: Úsala al empezar un proyecto NUEVO (sin código todavía) con esta plantilla, o cuando el usuario quiera definir o cambiar el stack (lenguajes, frameworks, base de datos, herramientas de pruebas). Rellena docs/stack, los comandos de AGENTS.md, scripts/check.sh e init.sh.
 ---
 
 # Definir el stack del proyecto

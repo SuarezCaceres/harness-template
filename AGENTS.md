@@ -43,7 +43,8 @@ scripts/          verificación y utilidades
 ## Skills del proyecto (`.agents/skills/`)
 | Skill              | Cuándo                                                        |
 |--------------------|---------------------------------------------------------------|
-| `init-stack`       | Primera vez: definir el stack y rellenar comandos y docs       |
+| `init-stack`       | Proyecto nuevo: definir el stack y rellenar comandos y docs    |
+| `adoptar-proyecto` | Proyecto existente: analizarlo y rellenar el harness           |
 | `spec-plan-code`   | Cualquier funcionalidad nueva                                 |
 | `frontend-proyecto`| Trabajo en `apps/web/`                                        |
 | `backend-proyecto` | Trabajo en `apps/api/`                                        |
